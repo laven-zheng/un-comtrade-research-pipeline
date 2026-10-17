@@ -1,0 +1,8 @@
+{
+  "description": "Small demonstration sample; not a published-paper specification",
+  "exporters": "example_countries.csv",
+  "importers": "example_countries.csv",
+  "classification": "HS",
+  "years": [2017],
+  "products": ["490110", "490199"]
+}

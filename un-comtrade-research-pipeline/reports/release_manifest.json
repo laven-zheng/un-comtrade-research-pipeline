@@ -1,0 +1,106 @@
+{
+  ".env.example": {
+    "bytes": 158,
+    "sha256": "13d6a4a1b754193b60a9f4db28ef99ca9730bb3099446958d175937b9ddfdf9c"
+  },
+  ".github/workflows/checks.yml": {
+    "bytes": 402,
+    "sha256": "ffc993c57d554fd1c1f2459be43035a121d81678591276d9e12a3a1e808e5982"
+  },
+  ".gitignore": {
+    "bytes": 144,
+    "sha256": "1a46556f1792cf192963f5e8814470bc04d1b369da3c21faad2770cc4c8532b9"
+  },
+  "CITATION.cff": {
+    "bytes": 343,
+    "sha256": "24ac9af785d286697cae272c660a11dd0770d321963e17d5e88db5069186e668"
+  },
+  "README.md": {
+    "bytes": 7919,
+    "sha256": "b73f17634b961e12da9ca0009019ff204f7b044ccbfec775e5e6717dcf335fc5"
+  },
+  "comtrade_pipeline/__init__.py": {
+    "bytes": 92,
+    "sha256": "8697dc4d073b13708f93228b62fe41f9a94c6a75ef176fd2e3a805e3bdd5eee9"
+  },
+  "comtrade_pipeline/__main__.py": {
+    "bytes": 11187,
+    "sha256": "9401338a69e3b29195692908303615ddb48fb3a9f847185e2016ffec443d4eaa"
+  },
+  "comtrade_pipeline/api.py": {
+    "bytes": 8102,
+    "sha256": "dc3af7892bb0da93c47e7ec52b934cb078e83adc2689cca9addbebb49e07a369"
+  },
+  "comtrade_pipeline/panel.py": {
+    "bytes": 11041,
+    "sha256": "8943a111e6fcdfe81f5566ecc68ee047b38507628036f6ea9276316afb3f8cba"
+  },
+  "config/example.json": {
+    "bytes": 248,
+    "sha256": "611942837002e98a000613d7837bf374b66c37f0e12f4d32590d0e0713a1976d"
+  },
+  "config/example_countries.csv": {
+    "bytes": 43,
+    "sha256": "6719fc54c05e3cebd3ba37658293cacecd423c2853e5de3843e07f10d66b2062"
+  },
+  "docs/data_dictionary.md": {
+    "bytes": 2071,
+    "sha256": "97ad7535dca01aaff8c75f313bd71cb283404eb58e517bad909c436db60416af"
+  },
+  "docs/methodology.md": {
+    "bytes": 3658,
+    "sha256": "3d099e5f4ab1cb86a9a6fd58ca9e0430b0b4c1c7c4b7ace3efb1ef15ed3be314"
+  },
+  "docs/references.md": {
+    "bytes": 1508,
+    "sha256": "41be1f9e3aac4798aa7575bfe4444510eb07aa4ab54d503c85da6e62cdf1461c"
+  },
+  "docs/validation.md": {
+    "bytes": 2100,
+    "sha256": "6ada71e54e39f05345e84f0356519a0e0d0ece3c2d818127a9b69240c45890a5"
+  },
+  "examples/coverage_synthetic.csv": {
+    "bytes": 131,
+    "sha256": "941bf1ad932fdc310a6bb2f2d960ae49627364ad12d0a678ec865d6a7235e191"
+  },
+  "examples/cyber_synthetic.csv": {
+    "bytes": 51,
+    "sha256": "efe56f1d92ef717720ef88d54cd41198c2bfb84249976ff494f1e77bc47c95bd"
+  },
+  "examples/direct_synthetic.csv": {
+    "bytes": 144,
+    "sha256": "58bf3659c8430caf81ff574abcdf8d6504b05484e1af3554d27d3b35eb27b78b"
+  },
+  "examples/expected_panel_synthetic.csv": {
+    "bytes": 1215,
+    "sha256": "91b78c2dacba07edd498cb053457c44c504461b337b370aa15fa227960bc2528"
+  },
+  "examples/mirror_synthetic.csv": {
+    "bytes": 114,
+    "sha256": "02af1028f759889a7023ca1e03fbcec1d4c2edeb83745632248412e33128451a"
+  },
+  "pyproject.toml": {
+    "bytes": 416,
+    "sha256": "f846d1ada98380785402f57b72d8754a86a152ab6a87142c8d2d3bd5d3dd0cf0"
+  },
+  "reports/validation_summary.json": {
+    "bytes": 602,
+    "sha256": "407ba879a193dbb3014bf6c0231dd9c94d49bc160a352a17eff6114c7f99348e"
+  },
+  "requirements-optional.txt": {
+    "bytes": 36,
+    "sha256": "c19464dbb2a1794b47551db135108af51e392811c0adb66011634ddd311b19cf"
+  },
+  "requirements-tested.txt": {
+    "bytes": 269,
+    "sha256": "60f02690323f79894f15eea310fe5eb7c75873f538092cee9634afbab98ab63e"
+  },
+  "requirements.txt": {
+    "bytes": 31,
+    "sha256": "ff90f2ec16aac2a0195bafb40f1a80a7cb7b15663ff2677e84cdcb9e363bf308"
+  },
+  "tests/test_pipeline.py": {
+    "bytes": 11030,
+    "sha256": "cb4469561980b33a50d08772f4701aa0642af618ace30f6901f3cb932384650f"
+  }
+}

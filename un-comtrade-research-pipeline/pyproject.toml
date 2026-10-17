@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "comtrade-research-pipeline"
+version = "0.1.0"
+description = "Bilateral trade collection and provenance-aware panel construction"
+requires-python = ">=3.10"
+dependencies = ["pandas==2.3.3", "requests==2.32.4"]
+authors = [{name = "Xiangyu Zheng"}]
+
+[tool.setuptools.packages.find]
+include = ["comtrade_pipeline*"]

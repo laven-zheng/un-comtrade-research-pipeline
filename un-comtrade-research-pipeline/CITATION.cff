@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you refer to this software, cite the repository and the version used."
+title: "UN Comtrade Research Pipeline"
+type: software
+version: 0.1.0
+authors:
+  - family-names: Zheng
+    given-names: Xiangyu
+abstract: "A general workflow for trade-data collection and panel construction, with synthetic public examples."

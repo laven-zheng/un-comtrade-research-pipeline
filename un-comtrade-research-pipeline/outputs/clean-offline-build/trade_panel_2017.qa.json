@@ -1,0 +1,18 @@
+{
+  "year": 2017,
+  "rows": 12,
+  "observed": 3,
+  "mirror_observed": 1,
+  "imputed_zero": 0,
+  "missing": 9,
+  "duplicate_keys": 0,
+  "trade_sources": {
+    "missing_unresolved": 9,
+    "direct_export": 2,
+    "mirror_import": 1
+  },
+  "classifications": [
+    "H5"
+  ],
+  "zero_policy": "none"
+}

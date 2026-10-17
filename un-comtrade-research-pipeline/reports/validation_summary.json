@@ -1,0 +1,25 @@
+{
+  "validation_date": "2026-10-17",
+  "python_version": "3.13.0",
+  "platform": "macOS Apple Silicon",
+  "tests_passed": 26,
+  "tests_failed": 0,
+  "clean_dependency_installation": "passed",
+  "mock_collection_integration": "passed",
+  "demo": {
+    "synthetic": true,
+    "rows": 12,
+    "observed": 3,
+    "missing": 9,
+    "imputed_zero": 0
+  },
+  "formats_read_back": [
+    "csv",
+    "parquet",
+    "stata"
+  ],
+  "offline_build_agrees_with_demo": true,
+  "authenticated_live_collection_tested": false,
+  "hosted_github_actions_run": false,
+  "empirical_research_data_in_public_package": false
+}
